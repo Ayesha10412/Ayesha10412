@@ -8,11 +8,11 @@
 
 ###
 
-<h3 align="left">Front-end developer</h3>
+<h3 align="left">MERN developer</h3>
 
 ###
 
-<p align="left">Hello,  I'm a front-end developer from Bangladesh. I make beautiful webpages using  React, tailwind css, and html.</p>
+<p align="left">I'm a MERN stack developer passionate about building scalable and user-friendly full-stack web applications. I work comfortably across both front-end and back-end using React, Node.js, Express, and MongoDB (with Mongoose). I'm also experienced with TypeScript and have used PostgreSQL for relational database projects. My academic background includes coursework in C, C++, Java, and C#, which strengthened my programming and problem-solving skills.</p>
 
 ###
 
